@@ -1,4 +1,4 @@
-# agent-sandbox
+# Agent Sandbox
 
 A sandbox repository for dsh-superagent.
 
